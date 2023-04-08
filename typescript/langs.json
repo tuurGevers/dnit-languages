@@ -1,0 +1,18 @@
+{
+  "home": {
+    "titel": {
+      "en": "Hello",
+      "de": "Hallo",
+      "fr": "Bonjour",
+      "nl": "Hallo"
+    }
+  },
+  "about": {
+    "titel": {
+      "en": "Hello about ",
+      "de": "Hallo auf ",
+      "fr": "Bonjour au"
+    }
+  }
+
+}
